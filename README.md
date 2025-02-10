@@ -140,7 +140,7 @@ IoT 개발자 기초 프로그래밍 언어 리포지토리
             - 예외처리 : 입력시 바로 엔터, 입력시 4개의 아이템을 입력하지 않으면 
             - 화면편집 : 검색이나 출력시 데이터 수 표시
 
-https://github.com/user-attachments/assets/09bd75aa-83e8-4adb-b02f-c1206d112a6b
+    https://github.com/user-attachments/assets/09bd75aa-83e8-4adb-b02f-c1206d112a6b
 
 
     - 주피터 노트북 기본사용법
