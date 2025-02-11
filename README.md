@@ -140,9 +140,9 @@ IoT 개발자 기초 프로그래밍 언어 리포지토리
             - 예외처리 : 입력시 바로 엔터, 입력시 4개의 아이템을 입력하지 않으면 
             - 화면편집 : 검색이나 출력시 데이터 수 표시
 
-    https://github.com/user-attachments/assets/09bd75aa-83e8-4adb-b02f-c1206d112a6b
+https://github.com/user-attachments/assets/09bd75aa-83e8-4adb-b02f-c1206d112a6b
 
-
+- 파이썬 응용
     - 주피터 노트북 기본사용법
         - 파이썬을 사용, 연구를 목적으로하는 리포트 작성에 특화된 기술
         - 주피터 프로젝트에서 나온 결과물
@@ -197,10 +197,12 @@ IoT 개발자 기초 프로그래밍 언어 리포지토리
     - 실습
         - 제미나이 챗앱 -> **클래스형태**로 변경
 
+- 파이썬 응용
     - 실행파일 만들기
         - `pyinstaller` 모듈 설치
-        - > pip install pyinstaller
-        - > pyinstaller --onefile 파이썬파일명
-        - 같이 실행되는 터미널을 제거하려면 
-        - > pyinstaller --oneifle --noconsole 파이썬파일명
-        - 아이콘 등의 리소스를 dist 폴더에 복사해야 함
+            - pip install pyinstaller
+        - 실행파일 명령어(터미널에 실행)
+            - pyinstaller --onefile 파이썬파일명
+            - 같이 실행되는 터미널을 제거하려면 
+            - pyinstaller --oneifle --noconsole 파이썬파일명
+            - 아이콘 등의 리소스를 dist 폴더에 복사해야 함
