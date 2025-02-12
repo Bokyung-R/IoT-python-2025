@@ -1,5 +1,5 @@
 # py04_pygame.py
-
+# 마우스 이벤트
 import pygame
 from pygame.locals import QUIT,MOUSEBUTTONDOWN, MOUSEBUTTONUP, MOUSEMOTION
 import sys
